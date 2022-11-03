@@ -25,4 +25,4 @@ npm start
 
 ## My Clone
 
-<img src="https://i.postimg.cc/2jvbm4N5/Screen-Shot-2022-11-03-at-4-38-53-AM.png" width="700" />
+<img src="https://i.postimg.cc/2jvbm4N5/Screen-Shot-2022-11-03-at-4-38-53-AM.png" />
