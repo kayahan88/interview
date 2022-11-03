@@ -1,19 +1,29 @@
-# interview
+# dime-beauty-demo
 
-## Instructions
-Using the following credentials, recreate the below screen and functionality using the Shopify Storefront API. Users should be able to click "Add to Bundle" for any of the 4 items listed, and if their total cart value crosses the $100 threshold, their cart should be applied a 10% discount.
+Connecting to DIME Beauty Shopify using [js-buy-sdk](https://github.com/Shopify/js-buy-sdk) built with [React](https://facebook.github.io/react/). This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Once you are ready for submission, push up your own code repo (make sure to set visibility to public) to your own GitHub account and provide instructions for how to run the application within the `README.md`.
+## Prerequisites
 
-## FAQs
-Q: I have a few questions on how you want a few things to look and function. 
-A: Use your best judgment. This role will at times allow you the flexibility to make your own decisions on some product specs. We are wanting to test your ability to create exceptional products with minimal hand-holding from others within the company.
+You will need the following things properly installed on your computer.
 
-### Credentials:
+* [Git](https://git-scm.com/)
+* [Node.js](https://nodejs.org/) (with NPM)
+
+## Installation
+
+* `git clone https://github.com/kayahan88/dime-beauty-demo.git` this repository
+* `npm i react-scripts`
+
+## Running
+
+Start a local server:
+
 ```
-Shopify Store URL: dime-beauty-demo.myshopify.com
-Storefront Access Token: df6fc859931d69c4b8a6d2fbb6ea2286
+npm start
 ```
 
-### Screen to Recreate
-![IMG_85B405F7166A-1](https://user-images.githubusercontent.com/86862714/193325248-bd7672dc-2c71-4aad-8c61-80531787b38e.jpeg)
+* Visit your app at [http://localhost:3000](http://localhost:3000).
+
+## My Clone
+
+<img src="https://i.postimg.cc/2jvbm4N5/Screen-Shot-2022-11-03-at-4-38-53-AM.png" width="700" />
