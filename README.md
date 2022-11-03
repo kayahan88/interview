@@ -11,8 +11,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone https://github.com/kayahan88/dime-beauty-demo.git` this repository
-* `npm i react-scripts`
+* `git clone https://github.com/kayahan88/interview.git` this repository
 
 ## Running
 
